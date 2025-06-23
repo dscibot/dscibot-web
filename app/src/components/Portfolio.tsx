@@ -61,7 +61,7 @@ export default function Portfolio() {
                 </div>
 
                 {/* Made Badge */}
-                <div className="absolute bottom-6 right-6 opacity-0 animate-fade-in" style={{ animationDelay: '5s', animationFillMode: 'forwards' }}>
+                <div className="absolute bottom-6 right-6 opacity-0 animate-fade-in" style={{ animationDelay: '2s', animationFillMode: 'forwards' }}>
                     <div className="bg-white text-black px-3 py-2 rounded-full text-sm font-medium flex items-center space-x-2">
                         <span>⚡</span>
                         <span>Made by DSC - Website is in construction</span>
